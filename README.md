@@ -1,7 +1,8 @@
 # Laboratorio 6: Virtualización y Gestión de Máquinas Virtuales
 
 ## Información del Estudiante
-* **Nombre:** Andrea Rivera
+* **Nombre:** Andrea Valentina Rivera Fernández
+* **Código:** 1152444
 * **Institución:** Universidad Francisco de Paula Santander (UFPS)
 * **Materia:** Arquitectura de Computadores
 * **Unidad:** 5
